@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by: KAVYASHREE V
+Developed by: KAVIYASHREE V
 Registeration Number : 212221220027
 */
 ```
